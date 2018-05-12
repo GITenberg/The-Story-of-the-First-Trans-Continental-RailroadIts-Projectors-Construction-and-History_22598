@@ -1,0 +1,28 @@
+_repo: The-Story-of-the-First-Trans-Continental-RailroadIts-Projectors-Construction-and-History_22598
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Bailey, William Francis
+    birthdate: 1861
+    gutenberg_agent_id: '25435'
+    url: http://www.gutenberg.org/2009/agents/25435
+description: ''
+gutenberg_issued: '2007-09-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '22598'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Union Pacific Railroad Company'
+- !lcc 'HE'
+- !lcsh 'Railroads -- United States -- History'
+title: 'The Story of the First Trans-Continental Railroad
+
+  Its Projectors, Construction and History'
+url: http://www.gutenberg.org/ebooks/22598
